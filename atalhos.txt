@@ -1,0 +1,4 @@
+emulator -list-avds
+emulator -no-snapshot -avd nome_do_celular
+
+Bom dia, pessoal! Alguém aqui já trabalhou com arquivos de extensão .kml com o react-native-maps? Tentei utilizar  o componente togeojson para converter meu arquivo, mas não tive o resultado esperado. Alguma outra solução para recomendar? Obrigado desde já ;)
